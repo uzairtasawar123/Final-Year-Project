@@ -1,0 +1,31 @@
+.loginimg{
+    background-image: url('../Images/login.jpg');
+    background-size: cover;
+    height: 565px;
+    width: 1400px;
+}
+.signupimg{
+    background-image: url('../Images/signup1.jpg');
+    background-size: cover;
+    height: 565px;
+    width: 1350px;
+    opacity: 0.9;
+}
+.addProduct{
+    background-image: url('../Images/login.jpg');
+    background-size: cover;
+    height: 1000px;
+    width: 1350px;
+}
+.row_div{
+    z-index: 1;
+}
+
+
+.loginform{
+    box-shadow: rgba(0, 0, 0, 5) 1px 5px 15px;
+}
+.signupform{
+    box-shadow: rgba(0, 0, 0, 5) 1px 5px 15px;
+
+}

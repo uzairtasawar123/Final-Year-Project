@@ -1,0 +1,8 @@
+.productimg{
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+    border-radius: 50%;
+    border: 0.5px solid black;
+    margin-right: 100px;
+}
